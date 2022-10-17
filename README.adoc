@@ -1,0 +1,14 @@
+
+------------------------------------------------------------------------
+Ceci est le fichier LISEZMOI (README) du projet.
+------------------------------------------------------------------------
+
+*TITRE DU PROJET* : Installation d'un service réseau (SAE2.03) 
+
+*BUT POURSUIVI* : Paramétrer et installer un serveur Apache pour notre site web personnalisé https://github.com/Mazlai/SAE1.06[ci-joint].
+
+*VERSION ou DATE* : 22/04/2021 
+
+*AUTEURS* : Mickaël FERNANDEZ et Nicolas SACILOTTO (4A)
+
+- Les fichiers n'étant pas accessibles depuis un poste extérieur à l'IUT, il m'est impossible d'en récupérer le contenu (code)
