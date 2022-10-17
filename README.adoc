@@ -11,4 +11,4 @@ Ceci est le fichier LISEZMOI (README) du projet.
 
 *AUTEURS* : Mickaël FERNANDEZ et Nicolas SACILOTTO (4A)
 
-- Les fichiers n'étant pas accessibles depuis un poste extérieur à l'IUT, il m'est impossible d'en récupérer le contenu (code)
+- Les fichiers n'étant pas accessibles depuis un poste extérieur à l'IUT, il m'est impossible d'en récupérer le contenu (code).
