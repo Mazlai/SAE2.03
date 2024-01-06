@@ -7,7 +7,7 @@ Ceci est le fichier LISEZMOI (README) du projet.
 
 *BUT POURSUIVI* : Paramétrer et installer un serveur Apache pour notre site web personnalisé https://github.com/Mazlai/SAE1.06[ci-joint].
 
-*VERSION ou DATE* : 22/04/2021 
+*VERSION ou DATE* : 22/04/2022
 
 *AUTEURS* : Mickaël FERNANDEZ et Nicolas SACILOTTO (4A)
 
